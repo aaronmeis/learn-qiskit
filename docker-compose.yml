@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  qiskit:
+    build: .
+    container_name: learn-qiskit
+    volumes:
+      # Mount the project directory so changes reflect immediately
+      - .:/app
+    # Run the quantum example by default
+    command: python hello_quantum.py
+    # Uncomment below for interactive shell instead:
+    # command: tail -f /dev/null
+
