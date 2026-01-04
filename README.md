@@ -1,5 +1,16 @@
 # Learn Qiskit - Your First Quantum Computing Project
 
+This is a learning project designed to help you get started with PennyLane and quantum computing workflows.
+
+Don't worry about understanding all the intricate quantum details at this point! The focus here is on:
+
+✅ Getting familiar with running quantum computing projects
+✅ Understanding project orchestration and setup
+✅ Learning how to work with Docker containers
+✅ Seeing how quantum circuits are structured and visualized
+Later examples will dive deeper into the quantum components (gates, entanglement, measurements, etc.). For now, just focus on getting comfortable with the tools and workflow!
+
+
 Welcome to our first Qiskit project! This is a simple starter project to help you get familiar with quantum computing using IBM's Qiskit framework.
 
 ## Platform Compatibility
@@ -302,5 +313,6 @@ Once you're comfortable with this example, you can:
 ## License
 
 This is a learning project. Feel free to modify and experiment!
+
 
 
