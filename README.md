@@ -13,6 +13,8 @@ Later examples will dive deeper into the quantum components (gates, entanglement
 
 Welcome to our first Qiskit project! This is a simple starter project to help you get familiar with quantum computing using IBM's Qiskit framework.
 
+![Overview](./unnamed.png)
+
 ## Platform Compatibility
 
 **Tested on:** Windows 11 (AMD processor)  
@@ -313,6 +315,7 @@ Once you're comfortable with this example, you can:
 ## License
 
 This is a learning project. Feel free to modify and experiment!
+
 
 
 
