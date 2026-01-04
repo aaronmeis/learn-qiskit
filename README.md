@@ -1,6 +1,6 @@
 # Learn Qiskit - Your First Quantum Computing Project
 
-Welcome to your first Qiskit project! This is a simple starter project to help you get familiar with quantum computing using IBM's Qiskit framework.
+Welcome to our first Qiskit project! This is a simple starter project to help you get familiar with quantum computing using IBM's Qiskit framework.
 
 ## Platform Compatibility
 
@@ -302,4 +302,5 @@ Once you're comfortable with this example, you can:
 ## License
 
 This is a learning project. Feel free to modify and experiment!
+
 
